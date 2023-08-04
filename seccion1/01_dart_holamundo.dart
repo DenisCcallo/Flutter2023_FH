@@ -16,7 +16,7 @@ void main(){
   //constante creada en tiempo de construccion
   const myName = 'Denis Ccallo';
   
-  //interpolacion de string
+  //interpolacion de string con $
   print('Hola $myName');
   print('Hola ${ myName.toUpperCase() }');
   print('Hola ${1+1}');
