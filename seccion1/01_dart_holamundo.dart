@@ -1,12 +1,12 @@
 void main(){
   
-  //puedes colocar cualquier valor
+  //con Var puedes colocar cualquier valor
   //var myName = 'Denis Ccallo';
   
-  //solo cadenas de texto
+  //String es solo cadenas de texto
   //String  myName = 'Denis Ccallo';
   
-  //cualquier valor pero no cambiara al reasignar la variable
+  //final es cualquier valor pero no cambiara al reasignar la variable
   //se asigna en tiempo de ejecucion
   //final myName = 'Denis Ccallo';
   
