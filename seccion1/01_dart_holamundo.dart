@@ -18,6 +18,7 @@ void main(){
   
   //interpolacion de string con $
   print('Hola $myName');
+  //si ejecuta mas de una expresion usar llaves {}
   print('Hola ${ myName.toUpperCase() }');
   print('Hola ${1+1}');
 }
